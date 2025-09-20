@@ -1,0 +1,310 @@
+2025-09-19 10:55:15 INFO  Account_registration_test:15 - Strating TC_001_AccountRegistrationtTest
+2025-09-19 11:00:59 INFO  Account_registration_test:15 - Strating AccountRegistrationtTest
+2025-09-19 11:01:00 INFO  Account_registration_test:19 - Clicked on My Account 
+2025-09-19 11:01:00 INFO  Account_registration_test:22 - Clicked on Register 
+2025-09-19 11:01:01 INFO  Account_registration_test:27 - Provided First Name 
+2025-09-19 11:01:01 INFO  Account_registration_test:30 - Provided Last Name 
+2025-09-19 11:01:01 INFO  Account_registration_test:34 - Provided Email 
+2025-09-19 11:01:01 INFO  Account_registration_test:37 - Provided Telephone 
+2025-09-19 11:01:02 INFO  Account_registration_test:40 - Provided Password 
+2025-09-19 11:01:02 INFO  Account_registration_test:43 - Provided Confrmed Password 
+2025-09-19 11:01:02 INFO  Account_registration_test:46 - Set Privacy Policy 
+2025-09-19 11:01:04 INFO  Account_registration_test:49 - Clicked on Continue 
+2025-09-19 11:01:06 INFO  Account_registration_test:61 - Finished AccountRegistrationtTest
+2025-09-19 11:01:08 INFO  Login_test:70 - **** Starting TC_002_LoginTest  ****
+2025-09-19 11:01:08 INFO  Login_test:77 - clicked on myaccount link on the home page..
+2025-09-19 11:01:09 INFO  Login_test:79 - clicked on login link under myaccount..
+2025-09-19 11:01:09 INFO  Login_test:83 - Entering valid email and password..
+2025-09-19 11:01:11 INFO  Login_test:87 - clicked on ligin button..
+2025-09-19 11:01:11 INFO  Login_test:101 - **** Finished TC_002_LoginTest  ****
+2025-09-19 11:01:16 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:01:20 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:01:20 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:01:33 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:01:33 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:04:10 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:04:14 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:04:14 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:04:21 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:04:21 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:10:20 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:10:25 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:10:25 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:10:35 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:10:35 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:12:16 INFO  Account_registration_test:15 - Strating AccountRegistrationtTest
+2025-09-19 11:33:50 INFO  Account_registration_test:15 - Strating AccountRegistrationtTest
+2025-09-19 11:33:52 INFO  Account_registration_test:19 - Clicked on My Account 
+2025-09-19 11:33:53 INFO  Account_registration_test:22 - Clicked on Register 
+2025-09-19 11:33:53 INFO  Account_registration_test:27 - Provided First Name 
+2025-09-19 11:33:53 INFO  Account_registration_test:30 - Provided Last Name 
+2025-09-19 11:33:53 INFO  Account_registration_test:34 - Provided Email 
+2025-09-19 11:33:54 INFO  Account_registration_test:37 - Provided Telephone 
+2025-09-19 11:33:54 INFO  Account_registration_test:40 - Provided Password 
+2025-09-19 11:33:54 INFO  Account_registration_test:43 - Provided Confrmed Password 
+2025-09-19 11:33:54 INFO  Account_registration_test:46 - Set Privacy Policy 
+2025-09-19 11:33:55 INFO  Account_registration_test:49 - Clicked on Continue 
+2025-09-19 11:33:58 INFO  Account_registration_test:61 - Finished AccountRegistrationtTest
+2025-09-19 11:34:05 INFO  Login_test:70 - **** Starting TC_002_LoginTest  ****
+2025-09-19 11:34:05 INFO  Login_test:77 - clicked on myaccount link on the home page..
+2025-09-19 11:34:06 INFO  Login_test:79 - clicked on login link under myaccount..
+2025-09-19 11:34:06 INFO  Login_test:83 - Entering valid email and password..
+2025-09-19 11:34:07 INFO  Login_test:87 - clicked on ligin button..
+2025-09-19 11:34:08 INFO  Login_test:101 - **** Finished TC_002_LoginTest  ****
+2025-09-19 11:34:17 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:34:20 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:34:20 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:34:22 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:34:24 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:34:35 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:34:35 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:34:38 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:38:16 INFO  Account_registration_test:15 - Strating AccountRegistrationtTest
+2025-09-19 11:38:17 INFO  Account_registration_test:19 - Clicked on My Account 
+2025-09-19 11:38:17 INFO  Account_registration_test:22 - Clicked on Register 
+2025-09-19 11:38:17 INFO  Account_registration_test:27 - Provided First Name 
+2025-09-19 11:38:17 INFO  Account_registration_test:30 - Provided Last Name 
+2025-09-19 11:38:18 INFO  Account_registration_test:34 - Provided Email 
+2025-09-19 11:38:18 INFO  Account_registration_test:37 - Provided Telephone 
+2025-09-19 11:38:18 INFO  Account_registration_test:40 - Provided Password 
+2025-09-19 11:38:18 INFO  Account_registration_test:43 - Provided Confrmed Password 
+2025-09-19 11:38:18 INFO  Account_registration_test:46 - Set Privacy Policy 
+2025-09-19 11:38:20 INFO  Account_registration_test:49 - Clicked on Continue 
+2025-09-19 11:38:22 INFO  Account_registration_test:61 - Finished AccountRegistrationtTest
+2025-09-19 11:38:24 INFO  Login_test:70 - **** Starting TC_002_LoginTest  ****
+2025-09-19 11:38:24 INFO  Login_test:77 - clicked on myaccount link on the home page..
+2025-09-19 11:38:25 INFO  Login_test:79 - clicked on login link under myaccount..
+2025-09-19 11:38:25 INFO  Login_test:83 - Entering valid email and password..
+2025-09-19 11:38:27 INFO  Login_test:87 - clicked on ligin button..
+2025-09-19 11:38:27 INFO  Login_test:101 - **** Finished TC_002_LoginTest  ****
+2025-09-19 11:38:31 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:38:34 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:38:34 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:38:46 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:38:46 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:42:04 INFO  Account_registration_test:15 - Strating AccountRegistrationtTest
+2025-09-19 11:42:04 INFO  Account_registration_test:19 - Clicked on My Account 
+2025-09-19 11:42:04 INFO  Account_registration_test:22 - Clicked on Register 
+2025-09-19 11:42:05 INFO  Account_registration_test:27 - Provided First Name 
+2025-09-19 11:42:05 INFO  Account_registration_test:30 - Provided Last Name 
+2025-09-19 11:42:05 INFO  Account_registration_test:34 - Provided Email 
+2025-09-19 11:42:05 INFO  Account_registration_test:37 - Provided Telephone 
+2025-09-19 11:42:05 INFO  Account_registration_test:40 - Provided Password 
+2025-09-19 11:42:06 INFO  Account_registration_test:43 - Provided Confrmed Password 
+2025-09-19 11:42:06 INFO  Account_registration_test:46 - Set Privacy Policy 
+2025-09-19 11:42:07 INFO  Account_registration_test:49 - Clicked on Continue 
+2025-09-19 11:42:21 INFO  Login_test:70 - **** Starting TC_002_LoginTest  ****
+2025-09-19 11:42:21 INFO  Login_test:77 - clicked on myaccount link on the home page..
+2025-09-19 11:42:22 INFO  Login_test:79 - clicked on login link under myaccount..
+2025-09-19 11:42:22 INFO  Login_test:83 - Entering valid email and password..
+2025-09-19 11:42:23 INFO  Login_test:87 - clicked on ligin button..
+2025-09-19 11:42:24 INFO  Login_test:101 - **** Finished TC_002_LoginTest  ****
+2025-09-19 11:42:28 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:42:31 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:42:31 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:42:41 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:42:41 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:45:14 INFO  Account_registration_test:15 - Strating AccountRegistrationtTest
+2025-09-19 11:45:15 INFO  Account_registration_test:19 - Clicked on My Account 
+2025-09-19 11:45:16 INFO  Account_registration_test:22 - Clicked on Register 
+2025-09-19 11:45:16 INFO  Account_registration_test:27 - Provided First Name 
+2025-09-19 11:45:16 INFO  Account_registration_test:30 - Provided Last Name 
+2025-09-19 11:45:16 INFO  Account_registration_test:34 - Provided Email 
+2025-09-19 11:45:16 INFO  Account_registration_test:37 - Provided Telephone 
+2025-09-19 11:45:16 INFO  Account_registration_test:40 - Provided Password 
+2025-09-19 11:45:16 INFO  Account_registration_test:43 - Provided Confrmed Password 
+2025-09-19 11:45:16 INFO  Account_registration_test:46 - Set Privacy Policy 
+2025-09-19 11:45:17 INFO  Account_registration_test:49 - Clicked on Continue 
+2025-09-19 11:45:20 INFO  Account_registration_test:61 - Finished AccountRegistrationtTest
+2025-09-19 11:45:26 INFO  Login_test:70 - **** Starting TC_002_LoginTest  ****
+2025-09-19 11:45:27 INFO  Login_test:77 - clicked on myaccount link on the home page..
+2025-09-19 11:45:27 INFO  Login_test:79 - clicked on login link under myaccount..
+2025-09-19 11:45:27 INFO  Login_test:83 - Entering valid email and password..
+2025-09-19 11:45:29 INFO  Login_test:87 - clicked on ligin button..
+2025-09-19 11:45:29 INFO  Login_test:101 - **** Finished TC_002_LoginTest  ****
+2025-09-19 11:45:38 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:45:40 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:45:40 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:45:42 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:45:44 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:45:56 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:45:56 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:45:58 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:51:21 INFO  Account_registration_test:15 - Strating AccountRegistrationtTest
+2025-09-19 11:51:21 INFO  Account_registration_test:19 - Clicked on My Account 
+2025-09-19 11:51:22 INFO  Account_registration_test:22 - Clicked on Register 
+2025-09-19 11:51:22 INFO  Account_registration_test:27 - Provided First Name 
+2025-09-19 11:51:22 INFO  Account_registration_test:30 - Provided Last Name 
+2025-09-19 11:51:22 INFO  Account_registration_test:34 - Provided Email 
+2025-09-19 11:51:22 INFO  Account_registration_test:37 - Provided Telephone 
+2025-09-19 11:51:22 INFO  Account_registration_test:40 - Provided Password 
+2025-09-19 11:51:23 INFO  Account_registration_test:43 - Provided Confrmed Password 
+2025-09-19 11:51:23 INFO  Account_registration_test:46 - Set Privacy Policy 
+2025-09-19 11:51:24 INFO  Account_registration_test:49 - Clicked on Continue 
+2025-09-19 11:51:26 INFO  Account_registration_test:61 - Finished AccountRegistrationtTest
+2025-09-19 11:51:28 INFO  Login_test:70 - **** Starting TC_002_LoginTest  ****
+2025-09-19 11:51:28 INFO  Login_test:77 - clicked on myaccount link on the home page..
+2025-09-19 11:51:29 INFO  Login_test:79 - clicked on login link under myaccount..
+2025-09-19 11:51:29 INFO  Login_test:83 - Entering valid email and password..
+2025-09-19 11:51:29 INFO  Login_test:87 - clicked on ligin button..
+2025-09-19 11:51:30 INFO  Login_test:101 - **** Finished TC_002_LoginTest  ****
+2025-09-19 11:51:34 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:51:37 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:51:37 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 11:51:47 INFO  Login_DDT:70 - **** Finished TC_003_LoginDDT *****
+2025-09-19 11:51:47 INFO  Login_DDT:20 - **** Starting TC_003_LoginDDT *****
+2025-09-19 12:30:56 INFO  Account_registration_test:15 - Strating AccountRegistrationtTest
+2025-09-19 12:30:57 INFO  Account_registration_test:19 - Clicked on My Account 
+2025-09-19 12:30:57 INFO  Account_registration_test:22 - Clicked on Register 
+2025-09-19 12:30:57 INFO  Account_registration_test:27 - Provided First Name 
+2025-09-19 12:30:58 INFO  Account_registration_test:30 - Provided Last Name 
+2025-09-19 12:30:58 INFO  Account_registration_test:34 - Provided Email 
+2025-09-19 12:30:58 INFO  Account_registration_test:37 - Provided Telephone 
+2025-09-19 12:30:58 INFO  Account_registration_test:40 - Provided Password 
+2025-09-19 12:30:58 INFO  Account_registration_test:43 - Provided Confrmed Password 
+2025-09-19 12:30:59 INFO  Account_registration_test:46 - Set Privacy Policy 
+2025-09-19 12:31:00 INFO  Account_registration_test:49 - Clicked on Continue 
+2025-09-19 12:31:02 INFO  Account_registration_test:61 - Finished AccountRegistrationtTest
+2025-09-19 12:31:05 INFO  Login_test:70 - **** Starting TC_002_LoginTest  ****
+2025-09-19 12:31:05 INFO  Login_test:77 - clicked on myaccount link on the home page..
+2025-09-19 12:31:05 INFO  Login_test:79 - clicked on login link under myaccount..
+2025-09-19 12:31:05 INFO  Login_test:83 - Entering valid email and password..
+2025-09-19 12:31:07 INFO  Login_test:87 - clicked on ligin button..
+2025-09-19 12:31:08 INFO  Login_test:101 - **** Finished TC_002_LoginTest  ****
+2025-09-19 12:31:11 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 12:31:14 INFO  Login_DDT:71 - **** Finished TC_003_LoginDDT *****
+2025-09-19 12:31:14 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 12:31:24 INFO  Login_DDT:71 - **** Finished TC_003_LoginDDT *****
+2025-09-19 12:31:24 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 12:37:37 INFO  Account_registration_test:15 - Strating AccountRegistrationtTest
+2025-09-19 12:37:37 INFO  Account_registration_test:19 - Clicked on My Account 
+2025-09-19 12:37:38 INFO  Account_registration_test:22 - Clicked on Register 
+2025-09-19 12:37:38 INFO  Account_registration_test:27 - Provided First Name 
+2025-09-19 12:37:38 INFO  Account_registration_test:30 - Provided Last Name 
+2025-09-19 12:37:38 INFO  Account_registration_test:34 - Provided Email 
+2025-09-19 12:37:38 INFO  Account_registration_test:37 - Provided Telephone 
+2025-09-19 12:37:39 INFO  Account_registration_test:40 - Provided Password 
+2025-09-19 12:37:39 INFO  Account_registration_test:43 - Provided Confrmed Password 
+2025-09-19 12:37:39 INFO  Account_registration_test:46 - Set Privacy Policy 
+2025-09-19 12:37:40 INFO  Account_registration_test:49 - Clicked on Continue 
+2025-09-19 12:37:42 INFO  Account_registration_test:61 - Finished AccountRegistrationtTest
+2025-09-19 12:37:44 INFO  Login_test:70 - **** Starting TC_002_LoginTest  ****
+2025-09-19 12:37:44 INFO  Login_test:77 - clicked on myaccount link on the home page..
+2025-09-19 12:37:45 INFO  Login_test:79 - clicked on login link under myaccount..
+2025-09-19 12:37:45 INFO  Login_test:83 - Entering valid email and password..
+2025-09-19 12:37:47 INFO  Login_test:87 - clicked on ligin button..
+2025-09-19 12:37:47 INFO  Login_test:101 - **** Finished TC_002_LoginTest  ****
+2025-09-19 12:37:59 INFO  Account_registration_test:15 - Strating AccountRegistrationtTest
+2025-09-19 12:38:00 INFO  Account_registration_test:19 - Clicked on My Account 
+2025-09-19 12:38:00 INFO  Account_registration_test:22 - Clicked on Register 
+2025-09-19 12:38:01 INFO  Account_registration_test:27 - Provided First Name 
+2025-09-19 12:38:01 INFO  Account_registration_test:30 - Provided Last Name 
+2025-09-19 12:38:01 INFO  Account_registration_test:34 - Provided Email 
+2025-09-19 12:38:01 INFO  Account_registration_test:37 - Provided Telephone 
+2025-09-19 12:38:01 INFO  Account_registration_test:40 - Provided Password 
+2025-09-19 12:38:01 INFO  Account_registration_test:43 - Provided Confrmed Password 
+2025-09-19 12:38:01 INFO  Account_registration_test:46 - Set Privacy Policy 
+2025-09-19 12:38:02 INFO  Account_registration_test:49 - Clicked on Continue 
+2025-09-19 12:38:04 INFO  Account_registration_test:61 - Finished AccountRegistrationtTest
+2025-09-19 12:38:12 INFO  Login_test:70 - **** Starting TC_002_LoginTest  ****
+2025-09-19 12:38:13 INFO  Login_test:77 - clicked on myaccount link on the home page..
+2025-09-19 12:38:14 INFO  Login_test:79 - clicked on login link under myaccount..
+2025-09-19 12:38:14 INFO  Login_test:83 - Entering valid email and password..
+2025-09-19 12:38:15 INFO  Login_test:87 - clicked on ligin button..
+2025-09-19 12:38:15 INFO  Login_test:101 - **** Finished TC_002_LoginTest  ****
+2025-09-19 12:38:26 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 12:38:28 INFO  Login_DDT:71 - **** Finished TC_003_LoginDDT *****
+2025-09-19 12:38:28 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 12:38:30 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 12:38:32 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 12:38:43 INFO  Login_DDT:71 - **** Finished TC_003_LoginDDT *****
+2025-09-19 12:38:43 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 12:38:45 INFO  Login_DDT:71 - **** Finished TC_003_LoginDDT *****
+2025-09-19 13:02:40 INFO  Account_registration_test:15 - Strating AccountRegistrationtTest
+2025-09-19 13:02:41 INFO  Account_registration_test:19 - Clicked on My Account 
+2025-09-19 13:02:41 INFO  Account_registration_test:22 - Clicked on Register 
+2025-09-19 13:02:41 INFO  Account_registration_test:27 - Provided First Name 
+2025-09-19 13:02:42 INFO  Account_registration_test:30 - Provided Last Name 
+2025-09-19 13:02:42 INFO  Account_registration_test:34 - Provided Email 
+2025-09-19 13:02:42 INFO  Account_registration_test:37 - Provided Telephone 
+2025-09-19 13:02:42 INFO  Account_registration_test:40 - Provided Password 
+2025-09-19 13:02:42 INFO  Account_registration_test:43 - Provided Confrmed Password 
+2025-09-19 13:02:42 INFO  Account_registration_test:46 - Set Privacy Policy 
+2025-09-19 13:02:43 INFO  Account_registration_test:49 - Clicked on Continue 
+2025-09-19 13:02:45 INFO  Account_registration_test:61 - Finished AccountRegistrationtTest
+2025-09-19 13:02:47 INFO  Login_test:70 - **** Starting TC_002_LoginTest  ****
+2025-09-19 13:02:48 INFO  Login_test:77 - clicked on myaccount link on the home page..
+2025-09-19 13:02:48 INFO  Login_test:79 - clicked on login link under myaccount..
+2025-09-19 13:02:48 INFO  Login_test:83 - Entering valid email and password..
+2025-09-19 13:02:50 INFO  Login_test:87 - clicked on ligin button..
+2025-09-19 13:02:50 INFO  Login_test:101 - **** Finished TC_002_LoginTest  ****
+2025-09-19 13:02:56 INFO  Account_registration_test:15 - Strating AccountRegistrationtTest
+2025-09-19 13:02:56 INFO  Account_registration_test:19 - Clicked on My Account 
+2025-09-19 13:02:56 INFO  Account_registration_test:22 - Clicked on Register 
+2025-09-19 13:02:57 INFO  Account_registration_test:27 - Provided First Name 
+2025-09-19 13:02:57 INFO  Account_registration_test:30 - Provided Last Name 
+2025-09-19 13:02:57 INFO  Account_registration_test:34 - Provided Email 
+2025-09-19 13:02:57 INFO  Account_registration_test:37 - Provided Telephone 
+2025-09-19 13:02:57 INFO  Account_registration_test:40 - Provided Password 
+2025-09-19 13:02:57 INFO  Account_registration_test:43 - Provided Confrmed Password 
+2025-09-19 13:02:57 INFO  Account_registration_test:46 - Set Privacy Policy 
+2025-09-19 13:02:58 INFO  Account_registration_test:49 - Clicked on Continue 
+2025-09-19 13:03:00 INFO  Account_registration_test:61 - Finished AccountRegistrationtTest
+2025-09-19 13:03:06 INFO  Login_test:70 - **** Starting TC_002_LoginTest  ****
+2025-09-19 13:03:06 INFO  Login_test:77 - clicked on myaccount link on the home page..
+2025-09-19 13:03:06 INFO  Login_test:79 - clicked on login link under myaccount..
+2025-09-19 13:03:06 INFO  Login_test:83 - Entering valid email and password..
+2025-09-19 13:03:08 INFO  Login_test:87 - clicked on ligin button..
+2025-09-19 13:03:08 INFO  Login_test:101 - **** Finished TC_002_LoginTest  ****
+2025-09-19 13:03:15 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 13:03:18 INFO  Login_DDT:71 - **** Finished TC_003_LoginDDT *****
+2025-09-19 13:03:18 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 13:03:20 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 13:03:22 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 13:03:33 INFO  Login_DDT:71 - **** Finished TC_003_LoginDDT *****
+2025-09-19 13:03:33 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 13:03:35 INFO  Login_DDT:71 - **** Finished TC_003_LoginDDT *****
+2025-09-19 13:17:11 INFO  Account_registration_test:15 - Strating AccountRegistrationtTest
+2025-09-19 13:17:11 INFO  Account_registration_test:19 - Clicked on My Account 
+2025-09-19 13:17:11 INFO  Account_registration_test:22 - Clicked on Register 
+2025-09-19 13:17:12 INFO  Account_registration_test:27 - Provided First Name 
+2025-09-19 13:17:12 INFO  Account_registration_test:30 - Provided Last Name 
+2025-09-19 13:17:12 INFO  Account_registration_test:34 - Provided Email 
+2025-09-19 13:17:12 INFO  Account_registration_test:37 - Provided Telephone 
+2025-09-19 13:17:13 INFO  Account_registration_test:40 - Provided Password 
+2025-09-19 13:17:13 INFO  Account_registration_test:43 - Provided Confrmed Password 
+2025-09-19 13:17:13 INFO  Account_registration_test:46 - Set Privacy Policy 
+2025-09-19 13:17:14 INFO  Account_registration_test:49 - Clicked on Continue 
+2025-09-19 13:17:16 INFO  Account_registration_test:61 - Finished AccountRegistrationtTest
+2025-09-19 13:17:18 INFO  Login_test:70 - **** Starting TC_002_LoginTest  ****
+2025-09-19 13:17:18 INFO  Login_test:77 - clicked on myaccount link on the home page..
+2025-09-19 13:17:19 INFO  Login_test:79 - clicked on login link under myaccount..
+2025-09-19 13:17:19 INFO  Login_test:83 - Entering valid email and password..
+2025-09-19 13:17:21 INFO  Login_test:87 - clicked on ligin button..
+2025-09-19 13:17:21 INFO  Login_test:101 - **** Finished TC_002_LoginTest  ****
+2025-09-19 13:17:29 INFO  Account_registration_test:15 - Strating AccountRegistrationtTest
+2025-09-19 13:17:29 INFO  Account_registration_test:19 - Clicked on My Account 
+2025-09-19 13:17:31 INFO  Account_registration_test:22 - Clicked on Register 
+2025-09-19 13:17:31 INFO  Account_registration_test:27 - Provided First Name 
+2025-09-19 13:17:31 INFO  Account_registration_test:30 - Provided Last Name 
+2025-09-19 13:17:31 INFO  Account_registration_test:34 - Provided Email 
+2025-09-19 13:17:31 INFO  Account_registration_test:37 - Provided Telephone 
+2025-09-19 13:17:31 INFO  Account_registration_test:40 - Provided Password 
+2025-09-19 13:17:31 INFO  Account_registration_test:43 - Provided Confrmed Password 
+2025-09-19 13:17:31 INFO  Account_registration_test:46 - Set Privacy Policy 
+2025-09-19 13:17:32 INFO  Account_registration_test:49 - Clicked on Continue 
+2025-09-19 13:17:34 INFO  Account_registration_test:61 - Finished AccountRegistrationtTest
+2025-09-19 13:17:41 INFO  Login_test:70 - **** Starting TC_002_LoginTest  ****
+2025-09-19 13:17:41 INFO  Login_test:77 - clicked on myaccount link on the home page..
+2025-09-19 13:17:42 INFO  Login_test:79 - clicked on login link under myaccount..
+2025-09-19 13:17:42 INFO  Login_test:83 - Entering valid email and password..
+2025-09-19 13:17:43 INFO  Login_test:87 - clicked on ligin button..
+2025-09-19 13:17:43 INFO  Login_test:101 - **** Finished TC_002_LoginTest  ****
+2025-09-19 13:17:53 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 13:17:56 INFO  Login_DDT:71 - **** Finished TC_003_LoginDDT *****
+2025-09-19 13:17:56 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 13:17:58 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 13:18:00 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 13:18:12 INFO  Login_DDT:71 - **** Finished TC_003_LoginDDT *****
+2025-09-19 13:18:12 INFO  Login_DDT:21 - **** Starting TC_003_LoginDDT *****
+2025-09-19 13:18:14 INFO  Login_DDT:71 - **** Finished TC_003_LoginDDT *****
