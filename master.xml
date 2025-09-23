@@ -9,7 +9,7 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-        <!-- <class name="testcases.Account_registration_test"/>-->
+       <class name="testcases.Account_registration_test"/>
        <class name="testcases.Login_test"/> 
        <!--<class name="testcases.Login_DDT"/>-->
     </classes>
