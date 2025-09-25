@@ -18,7 +18,7 @@
 <version>3.2.2</version>
 <configuration>
 <suiteXmlFiles>
-<suiteXmlFile>master.xml</suiteXmlFile>
+<suiteXmlFile>docker-grid.xml</suiteXmlFile>
 </suiteXmlFiles>
 </configuration>
 </plugin>
